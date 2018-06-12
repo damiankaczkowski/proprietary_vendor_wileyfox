@@ -192,6 +192,7 @@ PRODUCT_COPY_FILES += \
     vendor/wileyfox/kipper/proprietary/vendor/lib64/egl/libRBGLESv1_CM_adreno.so:system/vendor/lib64/egl/libRBGLESv1_CM_adreno.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib64/egl/libRBGLESv2_adreno.so:system/vendor/lib64/egl/libRBGLESv2_adreno.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib64/egl/libq3dtools_adreno.so:system/vendor/lib64/egl/libq3dtools_adreno.so \
+    vendor/wileyfox/kipper/proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so:system/vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib64/hw/flp.default.so:system/vendor/lib64/hw/flp.default.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib64/libC2D2.so:system/vendor/lib64/libC2D2.so \
     vendor/wileyfox/kipper/proprietary/vendor/lib64/libCB.so:system/vendor/lib64/libCB.so \
